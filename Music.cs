@@ -1,0 +1,7 @@
+﻿
+namespace GXA
+{
+    class Music
+    {
+    }
+}

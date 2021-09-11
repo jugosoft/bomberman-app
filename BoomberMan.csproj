@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DF06D792-C5FF-455B-9478-CC3DD1201C05}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GXA</RootNamespace>
+    <AssemblyName>GXA</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>PUYOPUYO.ICO</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Character.cs" />
+    <Compile Include="Audio.cs" />
+    <Compile Include="Bomb.cs" />
+    <Compile Include="Boy.cs" />
+    <Compile Include="Common.cs" />
+    <Compile Include="Enemy.cs" />
+    <Compile Include="Fire.cs" />
+    <Compile Include="Geometry.cs" />
+    <Compile Include="Host.cs" />
+    <Compile Include="KeyboardState.cs" />
+    <Compile Include="Map.cs" />
+    <Compile Include="MapCamp.cs" />
+    <Compile Include="Music.cs" />
+    <Compile Include="NextStageDoor.cs" />
+    <Compile Include="Panel.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Panel.Designer.cs">
+      <DependentUpon>Panel.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Position.cs" />
+    <Compile Include="Prize.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Panel.resx">
+      <DependentUpon>Panel.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Wall.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HE grenade.ico" />
+    <None Include="obj\Debug\boy_left01.png" />
+    <None Include="obj\Debug\boy_left02.png" />
+    <None Include="obj\Debug\boy_left03.png" />
+    <None Include="obj\Debug\boy_right.png" />
+    <None Include="obj\Debug\boy_right00.png" />
+    <None Include="obj\Debug\boy_right01.png" />
+    <None Include="obj\Debug\boy_right02.png" />
+    <None Include="obj\Debug\boy_right03.png" />
+    <None Include="obj\Debug\boy_up.png" />
+    <None Include="obj\Debug\boy_up00.png" />
+    <None Include="obj\Debug\boy_up01.png" />
+    <None Include="obj\Debug\boy_up02.png" />
+    <None Include="obj\Debug\boy_up03.png" />
+    <None Include="obj\Debug\boy_down00.png" />
+    <None Include="obj\Debug\boy_down01.png" />
+    <None Include="obj\Debug\boy_down02.png" />
+    <None Include="obj\Debug\boy_down03.png" />
+    <None Include="obj\Debug\boy_Left.png" />
+    <None Include="obj\Debug\boy_left00.png" />
+    <Content Include="PUYOPUYO.ICO" />
+    <None Include="Resources\37f61c1e3f386e.mp3" />
+    <None Include="Resources\boy_down00.gif" />
+    <None Include="Resources\boy_down0.gif" />
+    <Content Include="Resources\boy_down00.png" />
+    <Content Include="Resources\boy_down01.png" />
+    <Content Include="Resources\boy_down02.png" />
+    <Content Include="Resources\boy_down03.png" />
+    <Content Include="Resources\boy_left00.png" />
+    <Content Include="Resources\boy_left01.png" />
+    <Content Include="Resources\boy_left02.png" />
+    <Content Include="Resources\boy_left03.png" />
+    <Content Include="Resources\boy_right00.png" />
+    <Content Include="Resources\boy_right01.png" />
+    <Content Include="Resources\boy_right02.png" />
+    <Content Include="Resources\boy_right03.png" />
+    <Content Include="Resources\boy_up00.png" />
+    <Content Include="Resources\boy_up01.png" />
+    <Content Include="Resources\boy_up02.png" />
+    <Content Include="Resources\boy_up03.png" />
+    <None Include="Resources\Explode5.png" />
+    <None Include="Resources\Explode4.png" />
+    <None Include="Resources\Explode3.png" />
+    <None Include="Resources\Explode2.png" />
+    <None Include="Resources\Explode1.png" />
+    <None Include="Resources\ene_right.png" />
+    <None Include="Resources\ene_Left.png" />
+    <None Include="Resources\ene_Down.png" />
+    <None Include="Resources\boy_up.png" />
+    <None Include="Resources\boy_right.png" />
+    <None Include="Resources\boy_Left.png" />
+    <None Include="Resources\ene_up.png" />
+    <None Include="Resources\door2.png" />
+    <None Include="Resources\door1.png" />
+    <None Include="Resources\door3.png" />
+    <None Include="Resources\Bomb2.png" />
+    <None Include="Resources\Bomb1.png" />
+    <None Include="Resources\Bomb3.png" />
+    <None Include="Resources\Wall.png" />
+    <None Include="Resources\FixGrid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

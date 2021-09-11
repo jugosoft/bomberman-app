@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GXA">
+</Property><Property Name="Файл решения" Value="C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\GXA.sln">
+</Property><Property Name="Date" Value="13 апреля 2015 г.">
+</Property><Property Name="Time" Value="18:48:20">
+</Property></Properties><Event ErrorLevel="0" Project="GXA" Source="GXA.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\GXA.csproj">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Actor.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Actor.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Bomb.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Bomb.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Boy.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Boy.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Common.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Common.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Enemy.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Enemy.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Fire.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Fire.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Geometry.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Geometry.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Host.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Host.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="KeyboardState.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\KeyboardState.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Map.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Map.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="NextStageDoor.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\NextStageDoor.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Panel.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Panel.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Panel.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Panel.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Position.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Position.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Prize.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Prize.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Program.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Wall.cs" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Wall.cs">
+</Event><Event ErrorLevel="0" Project="GXA" Source="app.config" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="GXA" Source="ClassDiagram.cd" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\ClassDiagram.cd">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\Explode5.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\Explode5.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\Explode4.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\Explode4.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\Explode3.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\Explode3.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\Explode2.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\Explode2.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\Explode1.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\Explode1.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\ene_right.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\ene_right.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\ene_Left.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\ene_Left.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\ene_Down.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\ene_Down.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\boy_up.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\boy_up.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\boy_right.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\boy_right.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\boy_Left.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\boy_Left.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\boy_Down.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\boy_Down.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\ene_up.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\ene_up.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\door2.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\door2.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\door1.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\door1.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\door3.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\door3.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\Bomb2.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\Bomb2.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\Bomb1.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\Bomb1.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\Bomb3.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\Bomb3.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\Wall.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\Wall.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Resources\FixGrid.png" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Resources\FixGrid.png">
+</Event><Event ErrorLevel="0" Project="GXA" Source="HE grenade.ico" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\HE grenade.ico">
+</Event><Event ErrorLevel="0" Project="GXA" Source="PUYOPUYO.ICO" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\PUYOPUYO.ICO">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Panel.resx" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Panel.resx">
+</Event><Event ErrorLevel="0" Project="GXA" Source="Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\например дмитрий\Desktop\ПЕРЕДЕЛАТЬ!!!\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GXA" Source="GXA.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="GXA" Source="GXA.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GXA" Source="app.config" Description="Файл успешно преобразован. Все теги &lt;supportedRuntime&gt; и &lt;requiredRuntime&gt; были удалены, чтобы позволить проекту строиться и запускаться в Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="GXA" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
